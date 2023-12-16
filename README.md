@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CoderDavid1422
 - 👀 I’m interested in ... expanding my knowledge of cybersecurity concepts & practical applications.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... any cyber security projects that I can be of assistance to.
 - 📫 How to reach me ... d7hernandez4@gmail.com
 
 <!---
